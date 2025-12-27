@@ -1,6 +1,6 @@
 **13期华为算法挑战赛 多核信息处理系统 multi-core message processing system**
 
-提供一个 generator 的链接(实际上是来自 algotester 某场比赛的原题)
+提供一个 generator 的链接(实际上是来自 algotester 某场比赛的原题):https://algotester.com/en/ProblemSource/Display/260083
 
 主要想法是:
 
